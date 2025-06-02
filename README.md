@@ -402,7 +402,7 @@ ML_Algorithms:
 
 ### 🛠️ **Development Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" alt="Tools"/> 
 </div>
 
 <div align="center">
