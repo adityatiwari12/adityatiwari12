@@ -13,7 +13,7 @@ Name: Aditya Tiwari
 📬 Email: adityatiwari8@ieee.org
 📱 Phone: +91 7648935563
 📍 Indore, India
-💼 Portfolio: Coming Soon
+💼 Portfolio: https://adityatiwariportfolio.vercel.app/
 💡 Exploring: Java, Frontend, Gen AI, AWS, System Design, Project Management
 🗣 Public Speaker | Leader | Networker | Visionary
 ```
