@@ -490,7 +490,6 @@ mindmap
       Innovation Projects
       Sustainability Tech
 ```
-
 ### 📖 **Reading List**
 <div align="center">
   <img src="https://img.shields.io/badge/📚_Books-Technical_&_Leadership-purple?style=for-the-badge&logo=book&logoColor=white&labelColor=6a1b9a&color=9c27b0" alt="Books"/>
