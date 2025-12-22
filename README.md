@@ -26,9 +26,6 @@ gpa: "7.0"
 current_focus: ["Full-Stack Development", "AI/ML", "Leadership"]
 ```
 
-I'm a **second-year Computer Science student** at Acropolis Institute of Technology and Research, passionate about building impactful solutions through technology. I specialize in **React.js**, **AI-driven applications**, and creating scalable full-stack systems.
-
-Beyond coding, I actively lead as **IEEE Vice Chair** and **International Service Director at Rotaract Club**, where I organize technical workshops and community initiatives. I'm constantly learning, building, and contributing to the tech community.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityatiwari12&custom_title=Contribution%20Graph&bg_color=0D1117&color=7c3aed&line=00d2d3&point=00d2d3&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="100%">
