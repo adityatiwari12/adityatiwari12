@@ -561,7 +561,6 @@ const currentSkillProgress = {
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=⭐+STAR+MY+REPOS+IF+YOU+FIND+THEM+INTERESTING!+⭐;💬+OPEN+TO+COLLABORATIONS+AND+OPPORTUNITIES+💬;🚀+LET'S+BUILD+SOMETHING+AMAZING+TOGETHER!+🚀" alt="Footer Message"/>
 
 <br/><br/>
 
