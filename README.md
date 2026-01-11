@@ -247,7 +247,6 @@ gantt
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🗺️+EPIC+QUEST+LOG+🗺️" alt="Projects"/>
 
 </div>
 
@@ -387,7 +386,6 @@ gantt
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=📖+ANCIENT+KNOWLEDGE+PRESERVED+📖" alt="Research"/>
 
 </div>
 
