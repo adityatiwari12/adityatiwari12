@@ -91,7 +91,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityatiwari12&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
 
 </div>
 
@@ -150,7 +149,6 @@ gantt
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=⚔️+LEGENDARY+WEAPON+COLLECTION+⚔️" alt="Tech Stack"/>
 
 </div>
 
@@ -220,7 +218,6 @@ gantt
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=📈+REAL-TIME+COMBAT+ANALYTICS+📈" alt="Stats"/>
 
 <br/><br/>
 
@@ -233,7 +230,6 @@ gantt
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityatiwari12&custom_title=⚔️%20BATTLE%20ACTIVITY%20GRAPH%20⚔️&bg_color=0D1117&color=00F7F7&line=F75C7E&point=00F7F7&area_color=F75C7E&title_color=00F7F7&area=true&hide_border=true" alt="Activity Graph" width="95%">
 
 </div>
 
@@ -436,7 +432,6 @@ gantt
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=🌳+SKILL+PROGRESSION+TREE+🌳" alt="Learning"/>
 
 </div>
 
@@ -481,7 +476,6 @@ const currentSkillProgress = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=💬+JOIN+THE+GUILD+💬" alt="Connect"/>
 
 <br/>
 
