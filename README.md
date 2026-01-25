@@ -61,12 +61,13 @@
 
 ```yaml
 ╔═══════════════════════════════════════════════════════════════╗
-║                    🏆 HACKATHON BATTLES 🏆                    ║
+║                    🏆 HACKATHON BATTLES 🏆                   ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║  ⚔️  Total Battles Entered        : 7+                        ║
 ║  🥇 Victories Claimed             : 5                         ║
 ║  🏅 Championship Titles           :                           ║
 ║     • AI Fusion Hackathon         : 🥇 WINNER                ║
+║     • Hackathon 2.0 (MoTA) GOvernment : 🥇 WINNER            ║
 ║     • Innovik 5.0                 : 🥈 1st RUNNER UP         ║
 ║     • Eureka Ideathon             : 🥇 WINNER                ║
 ║     • Mediverse Hackathon         : 🥈 1st RUNNER UP         ║
