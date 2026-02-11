@@ -360,22 +360,6 @@
 
 </div>
 
-## 🎊 REALM STATISTICS
-
-<div align="center">
-
-```ascii
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                ┃
-┃   👥 Visitors to Realm    : [Profile Views Counter]           ┃
-┃   ⭐ Reputation Points     : [GitHub Stars]                    ┃
-┃   🤝 Guild Members         : [Followers]                       ┃
-┃   🔥 Activity Level        : LEGENDARY                         ┃
-┃                                                                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=adityatiwari12&label=REALM+VISITORS&color=brightgreen&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/adityatiwari12?label=GUILD+MEMBERS&style=for-the-badge&color=blue)
