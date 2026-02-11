@@ -101,50 +101,8 @@
 
 </div>
 
-## 💼 EXPERIENCE TIMELINE
 
-<div align="center">
 
-```mermaid
-gantt
-    title 🎯 Career Journey Timeline
-    dateFormat YYYY-MM-DD
-    section Leadership
-    IEEE TEMS Advisor           :active, 2026-01-01, 2027-01-01
-    IEEE Vice Chair             :done, 2025-01-01, 2026-01-01
-    section Community
-    GeeksforGeeks Ambassador    :active, 2024-12-01, 2026-01-01
-    Rotaract Director           :done, 2024-07-01, 2025-07-01
-    section Development
-    Frontend Developer          :done, 2024-08-01, 2024-09-01
-```
-
-</div>
-
-<details open>
-<summary><b>🎖️ LEADERSHIP ROLES</b></summary>
-
-<br/>
-
-<div align="center">
-
-| 🎯 POSITION | 🏢 ORGANIZATION | 📅 PERIOD | ⚡ STATUS |
-|:------------|:----------------|:----------|:--------:|
-| 🎓 **Advisor** | IEEE TEMS Student Branch Chapter | Jan 2026 - Present | 🟢 ACTIVE |
-| 👑 **Vice Chair** | IEEE Student Branch AITR | Jan 2025 - Jan 2026 | ✅ COMPLETED |
-| 🌍 **International Service Director** | Rotaract Club Acropolis Royals | Jul 2024 - Jul 2025 | ✅ COMPLETED |
-| 🚀 **Campus Ambassador** | GeeksforGeeks | Dec 2024 - Jan 2026 | 🟢 ACTIVE |
-| 💻 **Frontend Developer** | Fast and Right Services | Aug 2024 - Sep 2024 | ✅ COMPLETED |
-
-</div>
-
-</details>
-
-<div align="center">
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
 
 ## 🛠️ TECH ARSENAL & WEAPONS
 
@@ -344,23 +302,7 @@ gantt
 
 ---
 
-### 💊 **[QUEST 05] Medicine Recommendation System**
-```diff
-+ STATUS: ✅ COMPLETED | DIFFICULTY: ⭐⭐⭐ RARE
-```
 
-<div align="center">
-
-![NLP](https://img.shields.io/badge/NLP-BERT-yellow?style=for-the-badge&logo=brain&logoColor=white)
-![ML](https://img.shields.io/badge/ML-K--Means-blue?style=for-the-badge&logo=machine-learning&logoColor=white)
-
-</div>
-
-**🎯 MISSION:** Smart healthcare medication assistant  
-**⚔️ WEAPONS USED:** BERT, spaCy, NLTK, K-Means, React  
-**💎 FEATURES:** Medicine alternatives, symptom lookup, side effects, dosage recommendations  
-
----
 
 ### 🎓 **[QUEST 06] VidyarthiAI**
 ```diff
@@ -379,99 +321,18 @@ gantt
 
 </div>
 
-## 📚 RESEARCH SCROLLS
 
-<div align="center">
-
-
-</div>
-
-<details open>
-<summary><b>📜 PUBLISHED MANUSCRIPTS</b></summary>
-
-<br/>
-
-### 🔬 **K-dimensional Trees for Efficient Face Detection**
-```yaml
-📅 Publication: TechRxiv (Preprint) 2025
-🏆 Achievement: Best Research Paper Award
-⚡ Impact: Reduced complexity from O(n) to O(log n)
-🎯 Field: Computer Vision, Algorithm Optimization
-```
-
-**BREAKTHROUGH:** Optimized face detection using K-d trees for nearest neighbor searches, demonstrating significant computational efficiency improvement in matching phase.
-
-**🔗 [Read Paper](https://doi.org/10.36227/techrxiv.174803737.71813266/v1)**
 
 ---
 
-### 🌱 **Integrating Renewable Energy into ASIC-based Crypto Mining**
-```yaml
-📅 Publication: ICI3-2024 Conference
-🏆 Achievement: Published Research
-⚡ Impact: Sustainable Blockchain Solutions
-🎯 Field: Renewable Energy, Cryptocurrency
-```
-
-**INNOVATION:** Explored sustainable cryptocurrency mining through renewable energy integration with ASIC systems, analyzing energy efficiency and environmental impact.
-
----
-
-### 🏆 **Research Awards**
-- ⭐ **Best Research Paper** - NSSAFE 2025
-- ⭐ **Best Research Paper** - IEEE Ignite 2025
-
-</details>
-
-<div align="center">
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-## 🎯 ACTIVE SKILL TREE
-
-<div align="center">
 
 
-</div>
 
-```javascript
-const currentSkillProgress = {
-  mastering: {
-    "Data Structures & Algorithms": "████████░░ 80%",
-    "System Design": "██████░░░░ 60%",
-    "Cloud Architecture": "███████░░░ 70%"
-  },
-  
-  building: {
-    "Government Digital Solutions": "█████████░ 90%",
-    "Healthcare AI Systems": "████████░░ 80%",
-    "Computer Vision Apps": "████████░░ 85%"
-  },
-  
-  exploring: {
-    "Generative AI": "██████░░░░ 65%",
-    "Deep Learning": "█████░░░░░ 55%",
-    "Distributed Systems": "████░░░░░░ 45%"
-  },
-  
-  leading: {
-    "IEEE TEMS Chapter": "██████████ 100%",
-    "Technical Community": "█████████░ 95%"
-  }
-};
 
-// 🎯 NEXT LEVEL: Preparing for Software Engineering Roles
-// 💡 FOCUS: Building production-grade systems
-// 🚀 GOAL: Impact millions through technology
-```
 
-<div align="center">
+ 
 
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-</div>
 
 ## 🌐 GUILD COMMUNICATION
 
@@ -489,26 +350,7 @@ const currentSkillProgress = {
 
 </div>
 
-### 🤝 QUEST COLLABORATIONS
 
-<div align="center">
-
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  🎮 LOOKING FOR CO-OP PLAYERS:                                ║
-║                                                                ║
-║  ⚔️  Full-Stack Development Raids                            ║
-║  🤖 AI/ML Research Expeditions                               ║
-║  🏥 Healthcare Tech Missions                                 ║
-║  🏆 Hackathon Battle Royales                                 ║
-║  📚 Technical Documentation Quests                           ║
-║  🌍 Open Source Guild Contributions                          ║
-║                                                                ║
-║  💬 SEND GUILD INVITE: DM me on any platform!                ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
