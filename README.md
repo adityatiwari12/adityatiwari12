@@ -211,16 +211,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
-```ascii
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║              "Building solutions that matter,                  ║
-║               one commit at a time."                          ║
-║                                                                ║
-║              - Aditya Tiwari, Code Warrior                    ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+
 
 
 <br/><br/>
