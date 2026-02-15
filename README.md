@@ -89,7 +89,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🎨 FRONTEND MAGIC
 
@@ -104,8 +103,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗄️ DATABASE VAULT
 
@@ -117,13 +114,11 @@
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-%23FF6F00.svg?style=for-the-badge&logo=yolo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%2309A3D5.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-%23FFCA28.svg?style=for-the-badge&logo=openai&logoColor=black)
 
 ### ☁️ CLOUD & DEVOPS
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -180,7 +175,6 @@
 [![Email](https://img.shields.io/badge/📧_EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatiwari8@ieee.org)
 [![GitHub](https://img.shields.io/badge/💻_GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityatiwari12)
 [![Resume](https://img.shields.io/badge/📄_RESUME-Download-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Aditya_Tiwari_Resume.pdf)
-[![Phone](https://img.shields.io/badge/📱_PHONE-+91_7648935563-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+917648935563)
 
 </div>
 
