@@ -163,37 +163,11 @@
 
 
 
-## 🌐 GUILD COMMUNICATION
-
-<div align="center">
-
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Realm-FF6B6B?style=for-the-badge&logoColor=white)](https://adityatiwariportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityatiwari08)
-[![Email](https://img.shields.io/badge/📧_EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatiwari8@ieee.org)
-[![GitHub](https://img.shields.io/badge/💻_GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityatiwari12)
-[![Resume](https://img.shields.io/badge/📄_RESUME-Download-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Aditya_Tiwari_Resume.pdf)
-
-</div>
 
 
 
-</div>
-
-<div align="center">
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=adityatiwari12&label=REALM+VISITORS&color=brightgreen&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/adityatiwari12?label=GUILD+MEMBERS&style=for-the-badge&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/adityatiwari12?label=REPUTATION+STARS&style=for-the-badge&color=yellow)
-
-</div>
 
 <div align="center">
 
