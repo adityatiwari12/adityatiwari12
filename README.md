@@ -28,9 +28,9 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║                    🏆 HACKATHON BATTLES 🏆                   ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  ⚔️  Total Battles Entered        : 7+                        ║
-║  🥇 Victories Claimed             : 5                         ║
-║  🏅 Championship Titles           :                           ║
+║  ⚔️  Total Battles Entered        : 7+                       ║
+║  🥇 Victories Claimed             : 5                        ║
+║  🏅 Championship Titles           :                          ║
 ║     • AI Fusion Hackathon         : 🥇 WINNER                ║
 ║     • Hackathon 2.0 (MoTA) GOvernment : 🥇 WINNER            ║
 ║     • Innovik 5.0                 : 🥈 1st RUNNER UP         ║
@@ -38,16 +38,16 @@
 ║     • Mediverse Hackathon         : 🥈 1st RUNNER UP         ║
 ║  🎪 SIH 2025                      : 🎯 FINALIST              ║
 ╠═══════════════════════════════════════════════════════════════╣
-║                   📚 RESEARCH MASTERY 📚                      ║
+║                   📚 RESEARCH MASTERY 📚                     ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  📄 Papers Published              : 4                         ║
-║  🏆 Best Research Awards          : 2                         ║
-║     • NSSAFE 2025                 : ⭐ BEST PAPER           ║
-║     • IEEE Ignite 2025            : ⭐ BEST PAPER           ║
+║  📄 Papers Published              : 4                        ║
+║  🏆 Best Research Awards          : 2                        ║
+║     • NSSAFE 2025                 : ⭐ BEST PAPER            ║
+║     • IEEE Ignite 2025            : ⭐ BEST PAPER            ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                  🏛️ GOVERNMENT MISSIONS 🏛️                   ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  🇮🇳 Press Release Features        : 3x                       ║
+║  🇮🇳 Press Release Features        : 3x                        ║
 ║  🤝 Active Gov Projects           : 2 (Min. Tribal Affairs)  ║
 ║  🎯 Impact                        : National Level           ║
 ╚═══════════════════════════════════════════════════════════════╝
