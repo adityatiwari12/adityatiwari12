@@ -2,7 +2,7 @@
 
 # ⚔️ WELCOME TO MY REALM ⚔️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADITYA%20TIWARI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=LEVEL%2099%20DEVELOPER%20%7C%20CODE%20WARRIOR%20%7C%20AI%20ARCHITECT&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADITYA%20TIWARI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=LEVEL%2099%20DEVELOPER%20%7C%20CODE%20WARRIOR%20%7C%20AI%20DEVELOPER&descAlignY=60&descSize=20" width="100%"/>
 
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
