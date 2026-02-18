@@ -28,7 +28,7 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║                    🏆 HACKATHON BATTLES 🏆                   ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  ⚔️  Total Battles Entered        : 7+                       ║
+║  ⚔️  Total Battles Entered        : 9+                       ║
 ║  🥇 Victories Claimed             : 5                        ║
 ║  🏅 Championship Titles           :                          ║
 ║     • AI Fusion Hackathon         : 🥇 WINNER                ║
@@ -39,6 +39,7 @@
 ║  🎪 SIH 2025                      : 🎯 FINALIST              ║
 ║  🎪 LaserHAck 2025, USA           : 🎯 FINALIST              ║
 ║  🎪 CanHack 2026, Australia       : 🎯 FINALIST              ║
+║  🎪 HackChrono 2025, CU    : 🎯 FINALIST                     ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                   📚 RESEARCH MASTERY 📚                     ║
 ╠═══════════════════════════════════════════════════════════════╣
