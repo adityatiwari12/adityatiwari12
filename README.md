@@ -37,6 +37,8 @@
 ║     • Eureka Ideathon             : 🥇 WINNER                ║
 ║     • Mediverse Hackathon         : 🥈 1st RUNNER UP         ║
 ║  🎪 SIH 2025                      : 🎯 FINALIST              ║
+║  🎪 LaserHAck 2025, USA           : 🎯 FINALIST              ║
+║  🎪 CanHack 2026, Australia       : 🎯 FINALIST              ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                   📚 RESEARCH MASTERY 📚                     ║
 ╠═══════════════════════════════════════════════════════════════╣
