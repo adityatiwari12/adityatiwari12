@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ WELCOME TO MY REALM ⚔️
+# ⚔️ WELCOME TO MY REALM! ⚔️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADITYA%20TIWARI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=LEVEL%2099%20DEVELOPER%20%7C%20CODE%20WARRIOR%20%7C%20AI%20DEVELOPER&descAlignY=60&descSize=20" width="100%"/>
 
