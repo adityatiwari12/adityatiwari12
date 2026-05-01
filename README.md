@@ -27,18 +27,19 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║                    🏆 HACKATHON BATTLES 🏆                   ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  ⚔️  Total Battles Entered        : 9+                       ║
-║  🥇 Victories Claimed             : 5                        ║
+║  ⚔️  Total Battles Entered        : 15                       ║
+║  🥇 Victories Claimed             : 6                        ║
 ║  🏅 Championship Titles           :                          ║
 ║     • AI Fusion Hackathon         : 🥇 WINNER                ║
 ║     • Hackathon 2.0 (MoTA) GOvernment : 🥇 WINNER            ║
 ║     • Innovik 5.0                 : 🥈 1st RUNNER UP         ║
 ║     • Eureka Ideathon             : 🥇 WINNER                ║
 ║     • Mediverse Hackathon         : 🥈 1st RUNNER UP         ║
+║     • Kriyeta 5.0 Hackathon         : 🥈 1st RUNNER UP       ║
 ║  🎪 SIH 2025                      : 🎯 FINALIST              ║
 ║  🎪 LaserHAck 2025, USA           : 🎯 FINALIST              ║
 ║  🎪 CanHack 2026, Australia       : 🎯 FINALIST              ║
-║  🎪 HackChrono 2025, CU    : 🎯 FINALIST                     ║
+║  🎪 HackChrono 2025, CU           : 🎯 FINALIST              ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                   📚 RESEARCH MASTERY 📚                     ║
 ╠═══════════════════════════════════════════════════════════════╣
