@@ -1,192 +1,350 @@
-<div align="center">
-
-# ⚔️ WELCOME TO MY REALM! ⚔️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADITYA%20TIWARI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=LEVEL%2099%20DEVELOPER%20%7C%20CODE%20WARRIOR%20%7C%20AI%20DEVELOPER&descAlignY=60&descSize=20" width="100%"/>
-
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-
-
-## 🏆 ACHIEVEMENT SHOWCASE
+<!--
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                   ADITYA TIWARI — GITHUB PROFILE README                  ║
+║                       Neural Noir Edition • 2025                         ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-
-</div>
-
-<details open>
-<summary><b>🎯 QUEST COMPLETION LOG</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:051020,70:020818,100:00F5FF&height=220&section=header&text=Aditya%20Tiwari&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=ARCHITECT%20OF%20INTELLIGENT%20SYSTEMS&descFontColor=00F5FF&descAlignY=65&descSize=15&stroke=00F5FF&strokeWidth=1" width="100%"/>
 
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=FF0080&center=true&vCenter=true&repeat=true&width=680&lines=SDE+Intern+%40+Mythos+%7C+Singapore+%F0%9F%87%B8%F0%9F%87%AC;Co-Founder+%40+Tokenistt+%7C+LLM+Cost+Intelligence;6%C3%97+National+Hackathon+Champion;Full+Stack+%2B+AI%2FML+%2B+Systems+Builder;B.Tech+CSIT+%40+Acropolis+%7C+RGPV+%7C+2027)](https://github.com/adityatiwari132)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=adityatiwari132&style=flat-square&color=00F5FF&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/adityatiwari132)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/adityatiwari132?style=flat-square&color=FF0080&labelColor=0D1117&label=Followers&logo=github)](https://github.com/adityatiwari132?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/adityatiwari132?style=flat-square&color=FFD700&labelColor=0D1117&label=Stars&logo=github)](https://github.com/adityatiwari132)
+
+</div>
+
+---
+
+## `$ whoami`
 
 ```yaml
-╔═══════════════════════════════════════════════════════════════╗
-║                    🏆 HACKATHON BATTLES 🏆                   ║
-╠═══════════════════════════════════════════════════════════════╣
-║  ⚔️  Total Battles Entered        : 15                       ║
-║  🥇 Victories Claimed             : 6                        ║
-║  🏅 Championship Titles           :                          ║
-║     • AI Fusion Hackathon         : 🥇 WINNER                ║
-║     • Hackathon 2.0 (MoTA) GOvernment : 🥇 WINNER            ║
-║     • Innovik 5.0                 : 🥈 1st RUNNER UP         ║
-║     • Eureka Ideathon             : 🥇 WINNER                ║
-║     • Mediverse Hackathon         : 🥈 1st RUNNER UP         ║
-║     • Kriyeta 5.0 Hackathon         : 🥈 1st RUNNER UP       ║
-║  🎪 SIH 2025                      : 🎯 FINALIST              ║
-║  🎪 LaserHAck 2025, USA           : 🎯 FINALIST              ║
-║  🎪 CanHack 2026, Australia       : 🎯 FINALIST              ║
-║  🎪 HackChrono 2025, CU           : 🎯 FINALIST              ║
-╠═══════════════════════════════════════════════════════════════╣
-║                   📚 RESEARCH MASTERY 📚                     ║
-╠═══════════════════════════════════════════════════════════════╣
-║  📄 Papers Published              : 4                        ║
-║  🏆 Best Research Awards          : 2                        ║
-║     • NSSAFE 2025                 : ⭐ BEST PAPER            ║
-║     • IEEE Ignite 2025            : ⭐ BEST PAPER            ║
-╠═══════════════════════════════════════════════════════════════╣
-║                  🏛️ GOVERNMENT MISSIONS 🏛️                   ║
-╠═══════════════════════════════════════════════════════════════╣
-║  🇮🇳 Press Release Features        : 3x                        ║
-║  🤝 Active Gov Projects           : 2 (Min. Tribal Affairs)  ║
-║  🎯 Impact                        : National Level           ║
-╚═══════════════════════════════════════════════════════════════╝
+# ─────────────────────────────────────────────────────────────
+#  ADITYA TIWARI  ·  Full Stack & AI/ML Engineer  ·  Builder
+# ─────────────────────────────────────────────────────────────
+
+identity:
+  location: "Indore, India 🇮🇳"
+  education: "B.Tech CSIT @ Acropolis Institute of Technology (RGPV) · 2027"
+  
+live_missions:
+  - role: "SDE Intern"
+    org: "Mythos — AI/Automation Startup, Singapore 🇸🇬"
+    since: "April 2026"
+    focus: "Agentic workflows · TypeScript · Production AI systems"
+
+  - role: "Co-Founder & Builder"
+    org: "Tokenistt — LLM Token Cost Intelligence Platform"
+    since: "February 2026"
+    focus: "LLM optimization · Cost observability · Developer tooling"
+
+achievements:
+  hackathons: "6× National Winner across 15+ competitions"
+  research: "4× Published · 2× Best Paper Award (NSSAFE 2025 · IEEE Ignite 2025)"
+  government: "3× Press Release · Active collab with Ministry of Tribal Affairs"
+  international: "Finalist — LaserHack USA · CanHack Australia · SIH 2025"
+
+currently_learning: ["System Design at scale", "Advanced LLM internals", "DSA daily grind"]
+open_to: ["Internships", "Research", "Open Source", "Global opportunities"]
 ```
+
+<br/>
+
+---
+
+## `$ ls -la ./current-projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Tokenistt
+**LLM Token Cost Intelligence Platform**
+
+> *Making LLM costs visible, predictable, and optimizable*
+
+- 📊 Real-time token cost observability across providers
+- 🧠 Semantic caching & prompt compression engine
+- 📉 Cost attribution by user / feature / route
+- 🔌 Drop-in SDK — zero infra changes needed
+
+`TypeScript` `React` `Node.js` `Firebase` `OpenAI API`
+
+[![Tokenistt](https://img.shields.io/badge/tokenistt.com-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://tokenistt.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔶 Sanjivani (संजीवनी)
+**Personal Health OS for Elderly Indians**
+
+> *AI-powered health intelligence, built for Bharat*
+
+- 💊 Medication Intelligence Engine (OCR + RxNorm/OpenFDA)
+- 📡 IoT vitals wearable via ESP32
+- 🚨 Emergency response + family alert layer
+- 🏥 Multilingual voice interface
+
+`Python` `YOLOv8` `OpenCV` `ESP32` `AWS` `FastAPI`
+
+[![Kriyeta 5.0](https://img.shields.io/badge/Kriyeta%205.0%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](#)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 More Projects (click to expand)</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏛️ Dharohar**
+AWS cultural heritage platform — Amazon Bedrock (Claude Haiku), QLDB immutable ledger, biopiracy scanner, licensing workflow. Built at AI for Bharat Hackathon Grand Finale.
+
+`AWS` `Bedrock` `QLDB` `Transcribe`
+
+</td>
+<td width="33%" valign="top">
+
+**🌿 HealthSaarthi**
+AI-enabled multilingual healthcare platform — YOLOv8 exercise guidance, ambulance SOS, wearable telemetry via Mi Band, multilingual voice chatbot.
+
+`YOLOv8` `OpenCV` `React` `Node.js`
+
+</td>
+<td width="33%" valign="top">
+
+**🗺️ FRA Atlas WebGIS**
+AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & Telangana. Active collaboration with Ministry of Tribal Affairs.
+
+`GIS` `Python` `ML` `Government`
+
+</td>
+</tr>
+</table>
 
 </details>
 
-<div align="center">
+---
 
-
-</div>
-
-<div align="center">
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-
-
-
-## 🛠️ TECH ARSENAL & WEAPONS
+## `$ cat ./tech-stack.json`
 
 <div align="center">
 
+### Languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp&perline=8)](https://skillicons.dev)
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,html,css&perline=8)](https://skillicons.dev)
+
+### Backend & Database
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase&perline=8)](https://skillicons.dev)
+
+### AI / ML
+[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8)](https://skillicons.dev)
+
+### Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,cloudflare&perline=8)](https://skillicons.dev)
 
 </div>
 
-<details open>
-<summary><b>💻 PRIMARY WEAPONS</b></summary>
+---
+
+## `$ git log --oneline --graph --all` *(contribution activity)*
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityatiwari132&bg_color=0D1117&color=00F5FF&line=FF0080&point=FFFFFF&area=true&area_color=00F5FF20&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=8" width="100%"/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-### ⚔️ OFFENSIVE ARSENAL
+<table>
+<tr>
+<td>
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://github-readme-stats.vercel.app/api?username=adityatiwari132&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=C9D1D9&ring_color=00F5FF&include_all_commits=true" height="175"/>
 
-### 🎨 FRONTEND MAGIC
+</td>
+<td>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://streak-stats.demolab.com/?user=adityatiwari132&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF20&ring=FF0080&fire=FF0080&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
 
-### ⚙️ BACKEND FORTRESS
+</td>
+</tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 🗄️ DATABASE VAULT
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-### 🤖 AI/ML SPELLS
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-%23FF6F00.svg?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%2309A3D5.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-%23FFCA28.svg?style=for-the-badge&logo=openai&logoColor=black)
-
-### ☁️ CLOUD & DEVOPS
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatiwari132&layout=compact&langs_count=10&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" width="60%"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophy Cabinet
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityatiwari132&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityatiwari132/adityatiwari12/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityatiwari132/adityatiwari12/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adityatiwari12/adityatiwari12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+> **Setup**: Add [`.github/workflows/snake.yml`](#) to your profile repo and run the action once to generate this. See setup instructions below ↓
+
+</div>
+
+---
+
+## `$ cat ./achievements.log`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Hackathon Record
+
+| Rank | Event | Status |
+|------|-------|--------|
+| 🥇 | AI Fusion Hackathon | **WINNER** |
+| 🥇 | Hackathon 2.0 — MoTA (Government) | **WINNER** |
+| 🥇 | Eureka Ideathon | **WINNER** |
+| 🥈 | Innovik 5.0 | 1st Runner Up |
+| 🥈 | Mediverse Hackathon | 1st Runner Up |
+| 🥈 | Kriyeta 5.0 | 1st Runner Up |
+| 🎯 | SIH 2025 | Finalist |
+| 🎯 | LaserHack 2025 — USA 🇺🇸 | Finalist |
+| 🎯 | CanHack 2026 — Australia 🇦🇺 | Finalist |
+| 🎯 | HackChrono 2025 — CU | Finalist |
+
+**15 battles · 6 victories · 4 finales**
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Research & Recognition
+
+| Award | Venue |
+|-------|-------|
+| ⭐ Best Paper | NSSAFE 2025 |
+| ⭐ Best Paper | IEEE Ignite 2025 |
+| 🏅 Best Paper | RAMSITA 2026 |
+| 📄 Published | 4 Research Papers |
+
+<br/>
+
+### 🏛️ Government Footprint
+
+| | |
+|--|--|
+| 🇮🇳 | 3× National Press Release Features |
+| 🤝 | Active Projects with Min. Tribal Affairs |
+| 🌐 | National-level societal impact |
+
+<br/>
+
+### 🎓 Certifications
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ ping ./connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityatiwari132)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-@adityatiwari132-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adityatiwari132)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatiwari132@gmail.com)
+&nbsp;
+[![Tokenistt](https://img.shields.io/badge/Tokenistt-tokenistt.com-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://tokenistt.com)
+
+<br/>
+
+> *"I don't just write code — I build systems that matter, for people who matter."*
+
+<br/>
+
+</div>
+
+---
+
+<details>
+<summary><b>🐍 Snake Animation Setup (click for instructions)</b></summary>
+
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: adityatiwari12
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions → Generate Snake Animation → Run workflow**. The snake SVG will appear at the URL already referenced in this README.
 
 </details>
 
-<div align="center">
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-## 📊 BATTLE STATISTICS
+---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,70:051020,100:0D1117&height=140&section=footer&text=Let%27s%20build%20something%20extraordinary&fontSize=18&fontColor=FFFFFF&animation=twinkling&fontAlignY=60" width="100%"/>
 
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityatiwari12&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=F75C7E&text_color=ffffff&ring_color=00F7F7&fire_color=00F7F7"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityatiwari12&langs_count=10&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=adityatiwari12&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=F75C7E&fire=F75C7E&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" alt="GitHub Streak Stats" width="60%"/>
-
-<br/><br/>
-
-
-</div>
-
-<div align="center">
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-
- 
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-
-
-
-
-<br/><br/>
-
-**Made with ⚡ by a passionate developer who loves gaming aesthetics**
+<sub>Crafted with precision · Updated continuously · Built to stand out</sub>
 
 </div>
