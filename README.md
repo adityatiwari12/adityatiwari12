@@ -11,15 +11,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=FF0080&center=true&vCenter=true&repeat=true&width=680&lines=SDE+Intern+%40+Mythos+%7C+Singapore+%F0%9F%87%B8%F0%9F%87%AC;Co-Founder+%40+Tokenistt+%7C+LLM+Cost+Intelligence;6%C3%97+National+Hackathon+Champion;Full+Stack+%2B+AI%2FML+%2B+Systems+Builder;B.Tech+CSIT+%40+Acropolis+%7C+RGPV+%7C+2027)](https://github.com/adityatiwari132)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=FF0080&center=true&vCenter=true&repeat=true&width=680&lines=SDE+Intern+%40+Mythos+%7C+Singapore+%F0%9F%87%B8%F0%9F%87%AC;Co-Founder+%40+Tokenistt+%7C+LLM+Cost+Intelligence;6%C3%97+National+Hackathon+Champion;Full+Stack+%2B+AI%2FML+%2B+Systems+Builder;B.Tech+CSIT+%40+Acropolis+%7C+RGPV+%7C+2027)](https://github.com/adityatiwari12)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=adityatiwari132&style=flat-square&color=00F5FF&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/adityatiwari132)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityatiwari12&style=flat-square&color=00F5FF&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/adityatiwari12)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/adityatiwari132?style=flat-square&color=FF0080&labelColor=0D1117&label=Followers&logo=github)](https://github.com/adityatiwari132?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/adityatiwari12?style=flat-square&color=FF0080&labelColor=0D1117&label=Followers&logo=github)](https://github.com/adityatiwari12?tab=followers)
 &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/adityatiwari132?style=flat-square&color=FFD700&labelColor=0D1117&label=Stars&logo=github)](https://github.com/adityatiwari132)
+[![GitHub stars](https://img.shields.io/github/stars/adityatiwari12?style=flat-square&color=FFD700&labelColor=0D1117&label=Stars&logo=github)](https://github.com/adityatiwari12)
 
 </div>
 
@@ -167,7 +167,7 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityatiwari132&bg_color=0D1117&color=00F5FF&line=FF0080&point=FFFFFF&area=true&area_color=00F5FF20&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityatiwari12&bg_color=0D1117&color=00F5FF&line=FF0080&point=FFFFFF&area=true&area_color=00F5FF20&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=8" width="100%"/>
 
 </div>
 
@@ -179,18 +179,18 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityatiwari132&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=C9D1D9&ring_color=00F5FF&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityatiwari12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=C9D1D9&ring_color=00F5FF&include_all_commits=true" height="175"/>
 
 </td>
 <td>
 
-<img src="https://streak-stats.demolab.com/?user=adityatiwari132&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF20&ring=FF0080&fire=FF0080&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=adityatiwari12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF20&ring=FF0080&fire=FF0080&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatiwari132&layout=compact&langs_count=10&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatiwari12&layout=compact&langs_count=10&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" width="60%"/>
 
 </div>
 
@@ -200,7 +200,7 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 
 ### 🏆 Trophy Cabinet
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityatiwari132&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adityatiwari12&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
@@ -211,12 +211,12 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityatiwari132/adityatiwari12/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityatiwari132/adityatiwari12/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityatiwari12/adityatiwari12/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityatiwari12/adityatiwari12/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adityatiwari12/adityatiwari12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> **Setup**: Add [`.github/workflows/snake.yml`](#) to your profile repo and run the action once to generate this. See setup instructions below ↓
+
 
 </div>
 
@@ -297,47 +297,6 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 <br/>
 
 </div>
-
----
-
-<details>
-<summary><b>🐍 Snake Animation Setup (click for instructions)</b></summary>
-
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo with:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: adityatiwari12
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake Animation → Run workflow**. The snake SVG will appear at the URL already referenced in this README.
-
-</details>
 
 ---
 
