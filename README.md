@@ -282,11 +282,11 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityatiwari132)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityatiwari08)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-@adityatiwari132-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adityatiwari132)
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-@adityatiwari132-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adityatiwari8)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatiwari132@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatiwari8022@gmail.com)
 &nbsp;
 [![Tokenistt](https://img.shields.io/badge/Tokenistt-tokenistt.com-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://tokenistt.com)
 
