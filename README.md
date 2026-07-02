@@ -1,15 +1,8 @@
-<!--
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                   ADITYA TIWARI — GITHUB PROFILE README                  ║
-║                       Neural Noir Edition • 2025                         ║
-╚═══════════════════════════════════════════════════════════════════════════╝
--->
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:051020,70:020818,100:00F5FF&height=220&section=header&text=Aditya%20Tiwari&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=ARCHITECT%20OF%20INTELLIGENT%20SYSTEMS&descFontColor=00F5FF&descAlignY=65&descSize=15&stroke=00F5FF&strokeWidth=1" width="100%"/>
 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=FF0080&center=true&vCenter=true&repeat=true&width=680&lines=SDE+Intern+%40+Mythos+%7C+Singapore+%F0%9F%87%B8%F0%9F%87%AC;Co-Founder+%40+Tokenistt+%7C+LLM+Cost+Intelligence;6%C3%97+National+Hackathon+Champion;Full+Stack+%2B+AI%2FML+%2B+Systems+Builder;B.Tech+CSIT+%40+Acropolis+%7C+RGPV+%7C+2027)](https://github.com/adityatiwari12)
 
@@ -22,42 +15,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/adityatiwari12?style=flat-square&color=FFD700&labelColor=0D1117&label=Stars&logo=github)](https://github.com/adityatiwari12)
 
 </div>
-
----
-
-## `$ whoami`
-
-```yaml
-# ─────────────────────────────────────────────────────────────
-#  ADITYA TIWARI  ·  Full Stack & AI/ML Engineer  ·  Builder
-# ─────────────────────────────────────────────────────────────
-
-identity:
-  location: "Indore, India 🇮🇳"
-  education: "B.Tech CSIT @ Acropolis Institute of Technology (RGPV) · 2027"
-  
-live_missions:
-  - role: "SDE Intern"
-    org: "Mythos — AI/Automation Startup, Singapore 🇸🇬"
-    since: "April 2026"
-    focus: "Agentic workflows · TypeScript · Production AI systems"
-
-  - role: "Co-Founder & Builder"
-    org: "Tokenistt — LLM Token Cost Intelligence Platform"
-    since: "February 2026"
-    focus: "LLM optimization · Cost observability · Developer tooling"
-
-achievements:
-  hackathons: "6× National Winner across 15+ competitions"
-  research: "4× Published · 2× Best Paper Award (NSSAFE 2025 · IEEE Ignite 2025)"
-  government: "3× Press Release · Active collab with Ministry of Tribal Affairs"
-  international: "Finalist — LaserHack USA · CanHack Australia · SIH 2025"
-
-currently_learning: ["System Design at scale", "Advanced LLM internals", "DSA daily grind"]
-open_to: ["Internships", "Research", "Open Source", "Global opportunities"]
-```
-
-<br/>
 
 ---
 
@@ -161,48 +118,10 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 
 </div>
 
----
 
-## `$ git log --oneline --graph --all` *(contribution activity)*
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityatiwari12&bg_color=0D1117&color=00F5FF&line=FF0080&point=FFFFFF&area=true&area_color=00F5FF20&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=8" width="100%"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityatiwari12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF0080&text_color=C9D1D9&ring_color=00F5FF&include_all_commits=true" height="175"/>
-
-</td>
-<td>
-
-<img src="https://streak-stats.demolab.com/?user=adityatiwari12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF20&ring=FF0080&fire=FF0080&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatiwari12&layout=compact&langs_count=10&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" width="60%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophy Cabinet
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityatiwari12&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
 
 ---
 
@@ -269,9 +188,6 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 
 <br/>
 
-### 🎓 Certifications
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](#)
-
 </td>
 </tr>
 </table>
@@ -284,7 +200,7 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityatiwari08)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-@adityatiwari132-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adityatiwari8)
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-@adityatiwari132-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adityatiwari_8)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityatiwari8022@gmail.com)
 &nbsp;
@@ -292,18 +208,3 @@ AI-powered Forest Rights Act decision support system for MP, Tripura, Odisha & T
 
 <br/>
 
-> *"I don't just write code — I build systems that matter, for people who matter."*
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,70:051020,100:0D1117&height=140&section=footer&text=Let%27s%20build%20something%20extraordinary&fontSize=18&fontColor=FFFFFF&animation=twinkling&fontAlignY=60" width="100%"/>
-
-<sub>Crafted with precision · Updated continuously · Built to stand out</sub>
-
-</div>
