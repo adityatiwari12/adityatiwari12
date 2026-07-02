@@ -1,7 +1,5 @@
 <div align="center">
 
-# Aditya Tiwari
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&random=false&width=600&lines=Co-Founder+%26+CPO+%40+Tokenistt+%E2%80%94+YC+S26+Applicant;SDE+Intern+%40+Mythos%2C+Singapore;B.Tech+CSIT+%40+Acropolis+%7C+RGPV+%7C+2027)](https://www.tokenistt.com)
 
 </div>
