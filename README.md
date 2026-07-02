@@ -74,7 +74,7 @@
 <table>
 <tr>
 <td align="center" bgcolor="#0A0A0A" width="56"><a href="https://github.com/adityatiwari12"><img src="https://cdn.simpleicons.org/github/E5E5E5" width="24"/></a></td>
-<td align="center" bgcolor="#0A0A0A" width="56"><a href="https://linkedin.com/in/adityatiwari08"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24"/></a></td>
+<td align="center" bgcolor="#0A0A0A" width="56"><a href="https://linkedin.com/in/adityatiwari08"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/></a></td>
 <td align="center" bgcolor="#0A0A0A" width="56"><a href="https://twitter.com/adityatiwari8"><img src="https://cdn.simpleicons.org/x/E5E5E5" width="24"/></a></td>
 <td align="center" bgcolor="#0A0A0A" width="56"><a href="https://www.tokenistt.com"><img src="https://cdn.simpleicons.org/vercel/E5E5E5" width="24"/></a></td>
 <td align="center" bgcolor="#0A0A0A" width="56"><a href="mailto:tiwariaditya005@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24"/></a></td>
