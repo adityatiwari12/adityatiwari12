@@ -67,15 +67,3 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/adityatiwari12/adityatiwari12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:141414&height=5&width=1000" width="100%"/>
-<table>
-<tr>
-<td align="center" bgcolor="#0A0A0A" width="56"><a href="https://github.com/adityatiwari12"><img src="https://cdn.simpleicons.org/github/E5E5E5" width="24"/></a></td>
-<td align="center" bgcolor="#0A0A0A" width="56"><a href="https://linkedin.com/in/adityatiwari08"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/></a></td>
-<td align="center" bgcolor="#0A0A0A" width="56"><a href="https://twitter.com/adityatiwari8"><img src="https://cdn.simpleicons.org/x/E5E5E5" width="24"/></a></td>
-<td align="center" bgcolor="#0A0A0A" width="56"><a href="https://www.tokenistt.com"><img src="https://cdn.simpleicons.org/vercel/E5E5E5" width="24"/></a></td>
-<td align="center" bgcolor="#0A0A0A" width="56"><a href="mailto:tiwariaditya005@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24"/></a></td>
-</tr>
-</table>
-</div>
