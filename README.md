@@ -41,7 +41,7 @@
 </tr>
 </table>
 
-<sub>Also: **[ADAS Reinforcement Learning](https://github.com/adityatiwari12/ADAS-Reinforcement-learning-based-vechicle-training-framework)** — RL-based vehicle training framework for ADAS &nbsp;·&nbsp; **[Stellar 3D Solar Explorer](https://github.com/adityatiwari12/Stellar3DSolarExplorer)** — interactive 3D solar system exploration  &nbsp;·&nbsp; **[URL Shortener](https://github.com/adityatiwari12/url_shortener)** — Using C# with ADO.NET and ASP.NET, with per-click analytics and link performance tracking.</sub> 
+<sub>Also: **[ADAS Reinforcement Learning](https://github.com/adityatiwari12/ADAS-Reinforcement-learning-based-vechicle-training-framework)** — RL-based vehicle training framework for ADAS &nbsp;·&nbsp; **[Stellar 3D Solar Explorer](https://github.com/adityatiwari12/Stellar3DSolarExplorer)** — interactive 3D solar system exploration  &nbsp;·&nbsp; **[URL Shortener](https://github.com/adityatiwari12/url_shortner)** — Using C# with ADO.NET and ASP.NET, with per-click analytics and link performance tracking.</sub> 
 
 ### Skills
 
