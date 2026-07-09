@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/MoTA-Deputy%20Secretary%20LOR-1A1A1A?style=flat-square&labelColor=0A0A0A"/>
 </p>
 
-<sub>International finals: AWS AI for Bharat · CanHacks · LaserHack &nbsp;|&nbsp; Best Paper: IEEE Ignite · NSSAFE 2025 · RAMSITA 2026</sub>
+<sub>International finals: AWS AI for Bharat · CanHacks, Australia · LaserHack, USA &nbsp;|&nbsp; Best Paper: IEEE Ignite · NSSAFE 2025 · RAMSITA 2026</sub>
 
 
 <picture>
