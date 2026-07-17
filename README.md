@@ -59,7 +59,8 @@
 </p>
 
 <sub>International finals: AWS AI for Bharat · CanHacks, Australia · LaserHack, USA &nbsp;|&nbsp; Best Paper: IEEE Ignite · NSSAFE 2025 · RAMSITA 2026</sub>
-
+<br>
+<sub> Freelance Software Developer: Designed, built and shipped 3 end-to-end projects for the clients across fashion retail, luxury gifting and governance industry. </sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityatiwari12/adityatiwari12/output/github-contribution-grid-snake-dark.svg"/>
