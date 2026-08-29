@@ -50,7 +50,7 @@
 ### Achievements
 
 <p>
-<img src="https://img.shields.io/badge/6%C3%97-Hackathon%20Wins-1A1A1A?style=flat-square&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/7%C3%97-Hackathon%20Wins-1A1A1A?style=flat-square&labelColor=0A0A0A"/>
 <img src="https://img.shields.io/badge/3%C3%97-Int'l%20Top--5%20Finalist-1A1A1A?style=flat-square&labelColor=0A0A0A"/>
 <img src="https://img.shields.io/badge/SIH%202025-Finalist-1A1A1A?style=flat-square&labelColor=0A0A0A"/>
 <img src="https://img.shields.io/badge/TechRxiv-2%20Publications-1A1A1A?style=flat-square&labelColor=0A0A0A"/>
