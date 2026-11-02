@@ -10,7 +10,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Tokenistt](https://www.tokenistt.com)** — AI FinOps Platform
+**[Tokenistt](https://github.com/Complete-tokenistt/tokenistt)** — AI FinOps Platform
 <br/>Control layer between applications and every model provider — spend monitoring, budget controls, and governance for AI infra. 96K+ requests analyzed in closed beta.
 <br/>`TypeScript` `React` `Node.js` `PostgreSQL` `Docker`
 
