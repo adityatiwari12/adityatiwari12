@@ -4,6 +4,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/adityatiwari12">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+  </a>
+</p>   
+
 ### Top Projects
 
 <table>
