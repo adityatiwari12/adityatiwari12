@@ -33,7 +33,7 @@
 <td width="50%" valign="top">
 
 **Sanjivani** — Medication Safety & Health OS
-<br/>OCR-based drug interaction checking, ESP32 vitals wearable, and an emergency QR health resume. $1,000+ won across hackathons.
+<br/>OCR-based drug interaction checking, ESP32 vitals wearable, and an emergency QR health resume. $1,500+ won across hackathons.
 <br/>`React Native` `Python` `ESP32` `OCR` `RxNorm`
 
 </td>
